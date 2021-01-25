@@ -4,7 +4,7 @@
   "homepage": "https://bitsrc.io/bit/capsule-dev/core/capsule",
   "main": "dist/index.js",
   "dependencies": {
-    "memfs": "^2.14.2",
+    "memfs": "^2.17.1",
     "unionfs": "^3.0.2",
     "readable-stream": "^3.1.1"
   },
