@@ -163,7 +163,7 @@
     "is-relative-path": "^2.0.0",
     "is-url": "^1.2.4",
     "isbinaryfile": "^4.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.assignwith": "^4.2.0",
     "lodash.groupby": "^4.6.0",
     "lodash.merge": "^4.6.2",
